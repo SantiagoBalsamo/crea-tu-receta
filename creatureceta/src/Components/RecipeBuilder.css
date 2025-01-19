@@ -1,0 +1,17 @@
+.recipe-builder {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  display: flexbox;
+  }
+  
+  .recipe-builder input {
+    margin-left: 10px;
+    padding: 5px;
+    border: 1px solid var(--border-color);
+    border-radius: 5px;
+   
+  }
+  

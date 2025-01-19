@@ -1,0 +1,11 @@
+.create-recipe-container {
+    margin: 20px 0;
+    padding-left: 15px;
+  }
+  
+  .create-title {
+    color: var(--primary-color);
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }

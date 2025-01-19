@@ -1,0 +1,38 @@
+.ingredient-list-container {
+    margin: 20px 0;
+    align-items: center;
+  
+  }
+  
+  .ingredients-category {
+    margin-bottom: 15px;
+   padding: 15px;
+  
+  }
+  
+  .ingredient-item {
+    list-style: none;
+    padding: 8px;
+    margin: 4px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    
+
+  }
+  
+  .ingredient-button {
+    background-color: var(--accent-color);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+  }
+  
+  .ingredient-button:hover {
+    background-color: var(--primary-color);
+  }

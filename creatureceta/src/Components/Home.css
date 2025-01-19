@@ -1,0 +1,35 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: rgba(112, 112, 112, 0.11);
+    
+  }
+  
+  .home-title {
+    color: var(--primary-color);
+    font-size: 4rem;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+    
+  }
+  
+  .home-subtitle {
+    color: var(--secondary-color);
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .create-btn, .history-btn {
+    background-color: var(--primary-color);
+    color: #fff;
+    margin: 10px auto;
+    display: block;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .create-btn:hover, .history-btn:hover {
+    background-color: var(--secondary-color);
+  }

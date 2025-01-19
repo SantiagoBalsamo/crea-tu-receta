@@ -1,0 +1,35 @@
+.recipe-history {
+    margin: 25px auto;
+  }
+  
+  .recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .recipe-card {
+    background: #FF7F50;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px var(--shadow-color);
+    padding: 15px;
+    flex: 1 1 calc(50% - 20px);
+  }
+  
+  .recipe-name {
+    color: var(--primary-color);
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .delete-btn {
+    background-color: red;
+    color: #fff;
+    margin-top: 10px;
+  }
+  
+  .delete-btn:hover {
+    background-color: darkred;
+  }
+  
