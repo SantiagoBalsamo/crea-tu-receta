@@ -44,7 +44,7 @@ La navegación se maneja mediante estados locales en el componente principal (`A
 
 - **React**: Construcción de componentes y gestión de estados locales.
 - **Hooks**: Uso de `useState` y `useEffect` para manejar estados y efectos secundarios.
-- **CSS/Tailwind**: Diseño personalizado y estilizado.
+- **CSS**: Diseño personalizado y estilizado.
 - **localStorage**: Persistencia de datos para el historial de recetas.
 
 ---
